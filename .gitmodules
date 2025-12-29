@@ -1,3 +1,3 @@
-[submodule "libs/hbb_common"]
-	path = libs/hbb_common
-	url = https://github.com/rustdesk/hbb_common
+[子模块“libs/hbb _ common”]
+path = libs/hbb_common
+URL = https://github.com/hangmeng1995/restdesk-lib-hbb_common
